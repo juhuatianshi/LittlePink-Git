@@ -16,6 +16,7 @@
 		1C851AAF28B9AD8000C2EFEF /* LittlePink_GitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C851AAE28B9AD8000C2EFEF /* LittlePink_GitTests.swift */; };
 		1C851AB928B9AD8000C2EFEF /* LittlePink_GitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C851AB828B9AD8000C2EFEF /* LittlePink_GitUITests.swift */; };
 		1C851ABB28B9AD8000C2EFEF /* LittlePink_GitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C851ABA28B9AD8000C2EFEF /* LittlePink_GitUITestsLaunchTests.swift */; };
+		1C851AC828B9BE4300C2EFEF /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1C851AC728B9BE4300C2EFEF /* .gitignore.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1C851AB428B9AD8000C2EFEF /* LittlePink-GitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "LittlePink-GitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C851AB828B9AD8000C2EFEF /* LittlePink_GitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittlePink_GitUITests.swift; sourceTree = "<group>"; };
 		1C851ABA28B9AD8000C2EFEF /* LittlePink_GitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittlePink_GitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1C851AC728B9BE4300C2EFEF /* .gitignore.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1C851A8B28B9AD7B00C2EFEF = {
 			isa = PBXGroup;
 			children = (
+				1C851AC728B9BE4300C2EFEF /* .gitignore.rtf */,
 				1C851A9628B9AD7B00C2EFEF /* LittlePink-Git */,
 				1C851AAD28B9AD8000C2EFEF /* LittlePink-GitTests */,
 				1C851AB728B9AD8000C2EFEF /* LittlePink-GitUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				1C851AA428B9AD8000C2EFEF /* LaunchScreen.storyboard in Resources */,
 				1C851AA128B9AD8000C2EFEF /* Assets.xcassets in Resources */,
+				1C851AC828B9BE4300C2EFEF /* .gitignore.rtf in Resources */,
 				1C851A9F28B9AD7B00C2EFEF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
